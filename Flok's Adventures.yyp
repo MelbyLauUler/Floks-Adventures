@@ -71,11 +71,27 @@
             }
         },
         {
+            "Key": "4f9fed05-f721-4e0b-9d5b-5ef966ebc045",
+            "Value": {
+                "id": "13d55064-e02e-4ec5-ad5d-83d49f64164f",
+                "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "509f9358-f9a2-44fc-9ded-83ca26baee30",
             "Value": {
                 "id": "4362d10b-7172-4dd3-aa0d-b76a1c78e93f",
                 "resourcePath": "sprites\\sEnemy\\sEnemy.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5125c170-262a-426f-8763-54928356d27f",
+            "Value": {
+                "id": "79331efc-7de7-42cd-8f51-e90b200e1d13",
+                "resourcePath": "objects\\oFullScreen\\oFullScreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
